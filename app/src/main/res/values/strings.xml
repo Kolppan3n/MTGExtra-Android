@@ -4,13 +4,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="otsikko">MTG Extra Gamemodes</string>
-
-
-
-
-
-
-
     <string name="guide_suomi">
         Swipe alhaalta ylös:\n  -> Sulkee toolbarin\n\n
         Swipe ylhäältä alas:\n  -> Avaa toolbarin\n\n
