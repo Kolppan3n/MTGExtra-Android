@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MTGE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="otsikko">MTG Extra Gamemodes</string>
+
+
+
+
+
+
+
+    <string name="guide_suomi">
+        Swipe alhaalta ylös:\n  -> Sulkee toolbarin\n\n
+        Swipe ylhäältä alas:\n  -> Avaa toolbarin\n\n
+        Swipe oikealta vasemmalle:\n  -> Seuvaava kortti\n\n
+        Swipe vasemmalta oikealle:\n  -> Edellinen kortti\n\n
+        Pitkä painallus:\n  -> Pakan sekoittaminen</string>
+    <string name="guide_english">
+        Swipe from down to up:\n  -> Close toolbar\n\n
+        Swipe from up to down:\n  -> Open toolbar\n\n
+        Swipe from right to left:\n  -> Next Card\n\n
+        Swipe from left to right:\n  -> Previous Card\n\n
+        Long click:\n  -> Shuffle the deck</string>
+</resources>

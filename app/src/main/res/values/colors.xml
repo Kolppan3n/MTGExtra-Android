@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#494339</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#C08826</color>
+    <color name="colorAccentDark">#b37e24</color>
+    <color name="colorBackground">#494339</color>
+    <color name="colorBackground2">#F8ECC2</color>
+    <color name="colorText">#D7D4C7</color>
+    <color name="parchment">#f5deb3</color>
+    <color name="manaGreen">#8bbe57</color>
+    <color name="manaBlack">#403531</color>
+    <color name="manaWhite">#efd694</color>
+    <color name="manaBlue">#34aad8</color>
+    <color name="manaRed">#e85742</color>
+    <color name="manaGreenDark">#009f3d</color>
+    <color name="manaBlackDark">#000000</color>
+    <color name="manaWhiteDark">#f4c300</color>
+    <color name="manaBlueDark">#0085c7</color>
+    <color name="manaRedDark">#df0024</color>
+    <color name="gold">#f2d466</color>
+</resources>
